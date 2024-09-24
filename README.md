@@ -1,2 +1,2 @@
 # ICS661_1
-Assignment_1
+Data has been compressed, unzip data file to run code.
